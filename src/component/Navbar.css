@@ -1,0 +1,25 @@
+
+.container{
+    border: 2px solid red;
+    background: #1a2340;
+   
+}
+.top-bar{
+    color: white;
+    font-size: 14px;
+    border: 2px solid rgb(60, 60, 215);
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.topbar-close{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px 20px;
+}
+
